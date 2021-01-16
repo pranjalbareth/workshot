@@ -1,4 +1,4 @@
-# [ExcerTracker](https://mern-exercises-tracker.herokuapp.com/)
+# [Workshot](https://mern-exercises-tracker.herokuapp.com/)
 
 ### In this App, we need 5 dependencies below:
 
