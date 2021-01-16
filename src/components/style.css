@@ -1,0 +1,55 @@
+.navbar {
+    background-color: white;
+    color: black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black
+}
+
+a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: #343a40;
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.link {
+    color: #007bff;
+    font-weight: 500;
+}
+
+.link:hover {
+    color: #007bff;
+}
+
+.del-link {
+    color: red;
+    font-weight: 500;
+}
+
+.del-link:hover {
+    color: red;
+}
+
+.UserCircle {
+    font-size: 28px;
+    color:#343a40;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
