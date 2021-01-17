@@ -8,6 +8,15 @@
 - Axios
 - MongoDB
 
+###Features to be added 
+```
+(1) Pre-Entered Exercise list (with Icons)
+(2) Statistics Page
+(3) Statistics ananlysis (with calories burnt & all)
+(4) Firebase 'Sign In with Google' login Option
+(5) Removal of Standard User register option
+(6) Splash Screen
+```
 ### Quick Start
 
 ```bash
@@ -68,3 +77,4 @@ Request : DELETE
   #### Add Exercises  : http://localhost:3000/create
   #### Update Exercises  : http://localhost:3000/edit/:id
   #### Add User  : http://localhost:3000/user
+
