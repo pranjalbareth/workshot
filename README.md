@@ -8,7 +8,7 @@
 - Axios
 - MongoDB
 
-###Features to be added 
+### Features to be added 
 ```
 (1) Pre-Entered Exercise list (with Icons)
 (2) Statistics Page
